@@ -1,0 +1,165 @@
+,Home Team,Away Team,Date,Stadium Name,City,State
+0,CLE,HOU,2016-09-05,Progressive Field,Cleveland,OH
+1,CLE,HOU,2016-09-06,Progressive Field,Cleveland,OH
+2,CLE,HOU,2016-09-07,Progressive Field,Cleveland,OH
+3,CLE,HOU,2016-09-08,Progressive Field,Cleveland,OH
+4,MIN,HOU,2016-08-08,Target Field,Minneapolis,MN
+5,MIN,HOU,2016-08-09,Target Field,Minneapolis,MN
+6,MIN,HOU,2016-08-10,Target Field,Minneapolis,MN
+7,MIN,HOU,2016-08-11,Target Field,Minneapolis,MN
+8,MIN,HOU,2016-08-11,Target Field,Minneapolis,MN
+9,TB,HOU,2016-06-10,Tropicana Field,St. Petersburg,FL
+10,TB,HOU,2016-06-11,Tropicana Field,St. Petersburg,FL
+11,TB,HOU,2016-06-12,Tropicana Field,St. Petersburg,FL
+12,MIL,HOU,2016-04-08,Miller Park,Milwaukee,WI
+13,MIL,HOU,2016-04-09,Miller Park,Milwaukee,WI
+14,MIL,HOU,2016-04-10,Miller Park,Milwaukee,WI
+15,TEX,HOU,2016-04-19,Globe Life Park in Arlington,Arlington,TX
+16,TEX,HOU,2016-04-20,Globe Life Park in Arlington,Arlington,TX
+17,TEX,HOU,2016-04-21,Globe Life Park in Arlington,Arlington,TX
+18,TEX,HOU,2016-06-06,Globe Life Park in Arlington,Arlington,TX
+19,TEX,HOU,2016-06-07,Globe Life Park in Arlington,Arlington,TX
+20,TEX,HOU,2016-06-08,Globe Life Park in Arlington,Arlington,TX
+21,TEX,HOU,2016-06-09,Globe Life Park in Arlington,Arlington,TX
+22,TEX,HOU,2016-09-02,Globe Life Park in Arlington,Arlington,TX
+23,TEX,HOU,2016-09-03,Globe Life Park in Arlington,Arlington,TX
+24,TEX,HOU,2016-09-04,Globe Life Park in Arlington,Arlington,TX
+25,BAL,HOU,2016-08-18,Oriole Park at Camden Yards,Baltimore,MD
+26,BAL,HOU,2016-08-19,Oriole Park at Camden Yards,Baltimore,MD
+27,BAL,HOU,2016-08-20,Oriole Park at Camden Yards,Baltimore,MD
+28,BAL,HOU,2016-08-21,Oriole Park at Camden Yards,Baltimore,MD
+29,OAK,HOU,2016-04-29,O.co Coliseum,Oakland,CA
+30,OAK,HOU,2016-04-30,O.co Coliseum,Oakland,CA
+31,OAK,HOU,2016-05-01,O.co Coliseum,Oakland,CA
+32,OAK,HOU,2016-07-18,O.co Coliseum,Oakland,CA
+33,OAK,HOU,2016-07-19,O.co Coliseum,Oakland,CA
+34,OAK,HOU,2016-07-20,O.co Coliseum,Oakland,CA
+35,OAK,HOU,2016-09-19,O.co Coliseum,Oakland,CA
+36,OAK,HOU,2016-09-20,O.co Coliseum,Oakland,CA
+37,OAK,HOU,2016-09-21,O.co Coliseum,Oakland,CA
+38,CHW,HOU,2016-05-17,U.S. Cellular Field,Chicago,IL
+39,CHW,HOU,2016-05-18,U.S. Cellular Field,Chicago,IL
+40,CHW,HOU,2016-05-19,U.S. Cellular Field,Chicago,IL
+41,LAA,HOU,2016-05-27,Angel Stadium of Anaheim,Anaheim,CA
+42,LAA,HOU,2016-05-28,Angel Stadium of Anaheim,Anaheim,CA
+43,LAA,HOU,2016-05-29,Angel Stadium of Anaheim,Anaheim,CA
+44,LAA,HOU,2016-06-27,Angel Stadium of Anaheim,Anaheim,CA
+45,LAA,HOU,2016-06-28,Angel Stadium of Anaheim,Anaheim,CA
+46,LAA,HOU,2016-06-29,Angel Stadium of Anaheim,Anaheim,CA
+47,LAA,HOU,2016-09-30,Angel Stadium of Anaheim,Anaheim,CA
+48,LAA,HOU,2016-10-01,Angel Stadium of Anaheim,Anaheim,CA
+49,LAA,HOU,2016-10-02,Angel Stadium of Anaheim,Anaheim,CA
+50,PIT,HOU,2016-08-22,PNC Park,Pittsburgh,PA
+51,PIT,HOU,2016-08-23,PNC Park,Pittsburgh,PA
+52,PIT,HOU,2016-08-24,PNC Park,Pittsburgh,PA
+53,KC,HOU,2016-06-24,Kauffman Stadium,Kansas City,MO
+54,KC,HOU,2016-06-25,Kauffman Stadium,Kansas City,MO
+55,KC,HOU,2016-06-26,Kauffman Stadium,Kansas City,MO
+56,NYY,HOU,2016-04-04,Yankee Stadium,New York,NY
+57,NYY,HOU,2016-04-05,Yankee Stadium,New York,NY
+58,NYY,HOU,2016-04-06,Yankee Stadium,New York,NY
+59,NYY,HOU,2016-04-07,Yankee Stadium,New York,NY
+60,STL,HOU,2016-06-14,Busch Stadium,St. Louis,MO
+61,STL,HOU,2016-06-15,Busch Stadium,St. Louis,MO
+62,TOR,HOU,2016-08-12,Rogers Centre,Toronto,ON
+63,TOR,HOU,2016-08-13,Rogers Centre,Toronto,ON
+64,TOR,HOU,2016-08-14,Rogers Centre,Toronto,ON
+65,BOS,HOU,2016-05-12,Fenway Park,Boston,MA
+66,BOS,HOU,2016-05-13,Fenway Park,Boston,MA
+67,BOS,HOU,2016-05-14,Fenway Park,Boston,MA
+68,BOS,HOU,2016-05-15,Fenway Park,Boston,MA
+69,ARI,HOU,2016-05-30,Chase Field,Phoenix,AZ
+70,ARI,HOU,2016-05-31,Chase Field,Phoenix,AZ
+71,DET,HOU,2016-07-29,Comerica Park,Detroit,MI
+72,DET,HOU,2016-07-30,Comerica Park,Detroit,MI
+73,DET,HOU,2016-07-31,Comerica Park,Detroit,MI
+74,HOU,KC,2016-04-11,Minute Maid Park,Houston,TX
+75,HOU,KC,2016-04-12,Minute Maid Park,Houston,TX
+76,HOU,KC,2016-04-13,Minute Maid Park,Houston,TX
+77,HOU,KC,2016-04-14,Minute Maid Park,Houston,TX
+78,HOU,DET,2016-04-15,Minute Maid Park,Houston,TX
+79,HOU,DET,2016-04-16,Minute Maid Park,Houston,TX
+80,HOU,DET,2016-04-17,Minute Maid Park,Houston,TX
+81,HOU,BOS,2016-04-22,Minute Maid Park,Houston,TX
+82,HOU,BOS,2016-04-23,Minute Maid Park,Houston,TX
+83,HOU,BOS,2016-04-24,Minute Maid Park,Houston,TX
+84,HOU,MIN,2016-05-02,Minute Maid Park,Houston,TX
+85,HOU,MIN,2016-05-03,Minute Maid Park,Houston,TX
+86,HOU,MIN,2016-05-04,Minute Maid Park,Houston,TX
+87,HOU,SEA,2016-05-05,Minute Maid Park,Houston,TX
+88,HOU,SEA,2016-05-06,Minute Maid Park,Houston,TX
+89,HOU,SEA,2016-05-07,Minute Maid Park,Houston,TX
+90,HOU,SEA,2016-05-08,Minute Maid Park,Houston,TX
+91,HOU,CLE,2016-05-09,Minute Maid Park,Houston,TX
+92,HOU,CLE,2016-05-10,Minute Maid Park,Houston,TX
+93,HOU,CLE,2016-05-11,Minute Maid Park,Houston,TX
+94,HOU,TEX,2016-05-20,Minute Maid Park,Houston,TX
+95,HOU,TEX,2016-05-21,Minute Maid Park,Houston,TX
+96,HOU,TEX,2016-05-22,Minute Maid Park,Houston,TX
+97,HOU,BAL,2016-05-24,Minute Maid Park,Houston,TX
+98,HOU,BAL,2016-05-25,Minute Maid Park,Houston,TX
+99,HOU,BAL,2016-05-26,Minute Maid Park,Houston,TX
+100,HOU,ARI,2016-06-01,Minute Maid Park,Houston,TX
+101,HOU,ARI,2016-06-02,Minute Maid Park,Houston,TX
+102,HOU,OAK,2016-06-03,Minute Maid Park,Houston,TX
+103,HOU,OAK,2016-06-04,Minute Maid Park,Houston,TX
+104,HOU,OAK,2016-06-05,Minute Maid Park,Houston,TX
+105,HOU,CIN,2016-06-17,Minute Maid Park,Houston,TX
+106,HOU,CIN,2016-06-18,Minute Maid Park,Houston,TX
+107,HOU,CIN,2016-06-19,Minute Maid Park,Houston,TX
+108,HOU,LAA,2016-06-20,Minute Maid Park,Houston,TX
+109,HOU,LAA,2016-06-21,Minute Maid Park,Houston,TX
+110,HOU,LAA,2016-06-22,Minute Maid Park,Houston,TX
+111,HOU,CHW,2016-07-01,Minute Maid Park,Houston,TX
+112,HOU,CHW,2016-07-02,Minute Maid Park,Houston,TX
+113,HOU,CHW,2016-07-03,Minute Maid Park,Houston,TX
+114,HOU,SEA,2016-07-04,Minute Maid Park,Houston,TX
+115,HOU,SEA,2016-07-05,Minute Maid Park,Houston,TX
+116,HOU,SEA,2016-07-06,Minute Maid Park,Houston,TX
+117,HOU,OAK,2016-07-07,Minute Maid Park,Houston,TX
+118,HOU,OAK,2016-07-08,Minute Maid Park,Houston,TX
+119,HOU,OAK,2016-07-09,Minute Maid Park,Houston,TX
+120,HOU,OAK,2016-07-10,Minute Maid Park,Houston,TX
+121,HOU,LAA,2016-07-22,Minute Maid Park,Houston,TX
+122,HOU,LAA,2016-07-23,Minute Maid Park,Houston,TX
+123,HOU,LAA,2016-07-24,Minute Maid Park,Houston,TX
+124,HOU,NYY,2016-07-25,Minute Maid Park,Houston,TX
+125,HOU,NYY,2016-07-26,Minute Maid Park,Houston,TX
+126,HOU,NYY,2016-07-27,Minute Maid Park,Houston,TX
+127,HOU,TOR,2016-08-01,Minute Maid Park,Houston,TX
+128,HOU,TOR,2016-08-02,Minute Maid Park,Houston,TX
+129,HOU,TOR,2016-08-03,Minute Maid Park,Houston,TX
+130,HOU,TOR,2016-08-04,Minute Maid Park,Houston,TX
+131,HOU,TEX,2016-08-05,Minute Maid Park,Houston,TX
+132,HOU,TEX,2016-08-06,Minute Maid Park,Houston,TX
+133,HOU,TEX,2016-08-07,Minute Maid Park,Houston,TX
+134,HOU,STL,2016-08-16,Minute Maid Park,Houston,TX
+135,HOU,STL,2016-08-17,Minute Maid Park,Houston,TX
+136,HOU,TB,2016-08-26,Minute Maid Park,Houston,TX
+137,HOU,TB,2016-08-27,Minute Maid Park,Houston,TX
+138,HOU,TB,2016-08-28,Minute Maid Park,Houston,TX
+139,HOU,OAK,2016-08-29,Minute Maid Park,Houston,TX
+140,HOU,OAK,2016-08-30,Minute Maid Park,Houston,TX
+141,HOU,OAK,2016-08-31,Minute Maid Park,Houston,TX
+142,HOU,CHC,2016-09-09,Minute Maid Park,Houston,TX
+143,HOU,CHC,2016-09-10,Minute Maid Park,Houston,TX
+144,HOU,CHC,2016-09-11,Minute Maid Park,Houston,TX
+145,HOU,TEX,2016-09-12,Minute Maid Park,Houston,TX
+146,HOU,TEX,2016-09-13,Minute Maid Park,Houston,TX
+147,HOU,TEX,2016-09-14,Minute Maid Park,Houston,TX
+148,HOU,LAA,2016-09-22,Minute Maid Park,Houston,TX
+149,HOU,LAA,2016-09-23,Minute Maid Park,Houston,TX
+150,HOU,LAA,2016-09-24,Minute Maid Park,Houston,TX
+151,HOU,LAA,2016-09-25,Minute Maid Park,Houston,TX
+152,HOU,SEA,2016-09-26,Minute Maid Park,Houston,TX
+153,HOU,SEA,2016-09-27,Minute Maid Park,Houston,TX
+154,HOU,SEA,2016-09-28,Minute Maid Park,Houston,TX
+155,SEA,HOU,2016-04-25,Safeco Field,Seattle,WA
+156,SEA,HOU,2016-04-26,Safeco Field,Seattle,WA
+157,SEA,HOU,2016-04-27,Safeco Field,Seattle,WA
+158,SEA,HOU,2016-07-15,Safeco Field,Seattle,WA
+159,SEA,HOU,2016-07-16,Safeco Field,Seattle,WA
+160,SEA,HOU,2016-07-17,Safeco Field,Seattle,WA
+161,SEA,HOU,2016-09-16,Safeco Field,Seattle,WA
+162,SEA,HOU,2016-09-17,Safeco Field,Seattle,WA
+163,SEA,HOU,2016-09-18,Safeco Field,Seattle,WA
